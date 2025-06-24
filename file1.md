@@ -1,3 +1,3 @@
 hello world!!!
-i am aryanka shende
+i am Aryanka Shende
 learning git and github for the first time!!!

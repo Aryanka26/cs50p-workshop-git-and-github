@@ -56,7 +56,7 @@ Workshop for students taking CS50P at [Aryaloka](https://www.aryalokaeducation.c
            * Observe that your new commit is listed.
            * Click on the commit in the list to see the commit diff, the incremental changes did commit did.
 
-  - [ ] Second CLI commit
+  - [x] Second CLI commit
     1. Remember that you did not commit the new file `prog2.py` yet. Repeat the commands above to create a new commit that add this new file.           
 
 
